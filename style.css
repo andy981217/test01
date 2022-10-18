@@ -29,7 +29,6 @@ a{
     margin: 0 auto;
 }
 .board_list th, td{
-    border-spacing: 0px;
     border-bottom: 1px solid black;
     padding: 10px;
     text-align: center;
